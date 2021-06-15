@@ -15,7 +15,7 @@
 
 "Alert_BluetoothOff_Title" = "Turn on Bluetooth";
 
-"Alert_BluetoothOff_Description" = "Activate Bluetooth in your system settings to use this app.";
+"Alert_BluetoothOff_Description" = "Activate Bluetooth in your system settings to use this app and don't forget to sync.";
 
 "Alert_CancelAction_Later" = "Later";
 
